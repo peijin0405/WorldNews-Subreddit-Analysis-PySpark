@@ -1,5 +1,6 @@
 # PPOL567 Project
 This is a group project by Lucienne L. Julian, Sonali Subbu Rathinam, Peijin Li and Aaron Genin.
+
 Project website: https://peijin0405.github.io/WorldNews-Subreddit-Analysis-PySpark/
 
 ## Project overview and objective
