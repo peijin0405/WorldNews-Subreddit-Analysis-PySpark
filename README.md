@@ -1,4 +1,5 @@
 # PPOL567 Project
+## This is group project by Lucienne L. Julian, Sonali Subbu Rathinam, Peijin Li, Aaron Genin.
 
 ## Project overview and objective
 
