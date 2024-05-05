@@ -1,5 +1,9 @@
 # PPOL567 Project
 
+This is a group project by Lucienne L. Julian, Peijin Li, Sonali Subbu Rathinam and Aaron Genin.
+
+Project website: https://peijin0405.github.io/WorldNews-Subreddit-Analysis-PySpark/
+
 ## Project overview and objective
 
 Over the rest of the semester, you will work with the [Reddit Archive data](https://files.pushshift.io/reddit/) from January 2022 through the end of January 2023, representing about 400GB of uncompressed text parquet data. For a sneak peek of the data, you can download sample files of the submissions and comments:
