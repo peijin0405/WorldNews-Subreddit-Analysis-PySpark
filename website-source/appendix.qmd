@@ -12,6 +12,7 @@ from IPython.display import HTML
 import plotly.express as px 
 import pandas as pd
 import json
+import country_converter as coco
 
 ## Read images from file 
 img1 = open('../data/plots/NaiveBayes-ConfusionMatrix.png', 'rb').read()
@@ -49,7 +50,6 @@ wi2 = widgets.Image(value=img2, format='png', width=1000, height=900)
 vbox_1 = widgets.VBox([wi1, wi2])
 ## Display
 display.display(vbox_1)
-
 
 ```
 
