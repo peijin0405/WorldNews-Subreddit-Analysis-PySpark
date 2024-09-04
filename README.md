@@ -4,6 +4,8 @@ This is a group project by Lucienne L. Julian, Peijin Li, Sonali Subbu Rathinam 
 
 Project website: https://peijin0405.github.io/WorldNews-Subreddit-Analysis-PySpark/
 
+This project analyzed comments and posts on the r/worldnews subreddit using NLP and ML techniques to understand the content's distribution and sentiment. Exploratory Data Analysis revealed key topics, such as the prominence of the Russia-Ukraine conflict, and identified popular news sources. NLP-driven topic modeling and sentiment analysis, especially around high-interest events, indicated a dominant negative sentiment, particularly in article titles. Predictive models were then developed to assess the controversiality and sentiment of comments, with notable success, although class imbalance in controversiality predictions was a challenge. The sentiment model, trained with the Vader-Sentiment lexicon, achieved a test error slightly above 8%.
+
 ## Project overview and objective
 
 Over the rest of the semester, you will work with the [Reddit Archive data](https://files.pushshift.io/reddit/) from January 2022 through the end of January 2023, representing about 400GB of uncompressed text parquet data. For a sneak peek of the data, you can download sample files of the submissions and comments:
